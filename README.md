@@ -33,7 +33,7 @@ Abra el terminal de su computadora y realice los siguientes pasos:
 
 ```bash
 #Clone el repositorio
-git clone https://github.com/marialares/Proffy-Nex-Level-Week#2
+git clone https://github.com/marialares/Proffy-Nex-Level-Week-2
 
 # Entre en el directorio
 cd proffy_nlw
