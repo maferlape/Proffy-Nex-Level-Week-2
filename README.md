@@ -10,10 +10,10 @@
 
 # <p align="center">💻<span style="color: #6842c2"> Proffy </span>- Nex Level Week#2 </p>
 <p align="center">
-  <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Como-ejecutar-el-proyecto">Como ejecutar proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologías-Utilizadas">Tecnologías Utilizasas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licencia">Licencia</a>
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-ejecutar-el-proyecto">Como ejecutar proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologías-Utilizadas">Tecnologías Utilizasas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licencia">Licencia</a>
 </p>
 
 
@@ -33,10 +33,10 @@ Abra el terminal de su computadora y realice los siguientes pasos:
 
 ```bash
 #Clone el repositorio
-git clone https://github.com/marialares/NLW
+git clone https://github.com/marialares/Proffy-Nex-Level-Week#2
 
 # Entre en el directorio
-cd NLW
+cd proffy_nlw
 
 # Baje las dependencias
 npm i
