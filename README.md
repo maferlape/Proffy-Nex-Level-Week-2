@@ -70,4 +70,4 @@ Este proyecto está bajo la Licencia MIT- mira el archivo [LICENSE](LICENSE.md) 
 * **Mayk Brito** - *Profesor guía* - [maykbrito](https://github.com/maykbrito)
 
 ---
-⌨️ con ❤️ por [Maria Lares](www.linkedin.com/in/maria-lares) 😊
+⌨️ con ❤️ por [Maria Lares](https://www.linkedin.com/in/maria-lares) 😊
