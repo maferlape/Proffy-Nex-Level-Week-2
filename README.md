@@ -9,7 +9,7 @@
 # <p align="center">💻<span style="color: #6842c2"> Proffy </span>- Nex Level Week#2 </p>
 
 <p align="center">
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-ejecutar-el-proyecto">Como ejecutar el proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologías-Utilizadas">Tecnologías Utilizasas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licencia">Licencia</a>
