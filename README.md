@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-ejecutar-el-proyecto">Como ejecutar el proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologías-Utilizadas">Tecnologías Utilizasas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licencia">Licencia</a>
+  <a href="#como-ejecutar-el-proyecto">Como ejecutar el proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologías-Utilizadas">Tecnologías Utilizasas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licencia">Licencia</a>
 </p>
 
 
