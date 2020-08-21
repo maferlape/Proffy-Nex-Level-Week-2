@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#ejecutar-como-ejecutar-el-proyecto">Como ejecutar el proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-ejecutar-el-proyecto">Como ejecutar el proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-tecnologías-Utilizadas">Tecnologías Utilizasas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licencia">Licencia</a>
+  <a href="#licencia">Licencia</a>
 </p>
 
 
@@ -21,7 +21,7 @@
 Es una Plataforma de Estudios Online creada en honor al día 
 del Educador en Brasil, en donde las personas podrán estudiar o dar clases, para estudiar tendrá una pagina en donde los estudiantes podrán filtrar los profesores disponibles de acuerdo a la materia y horario ingresada por el estudiante y para dar clases tendrá una pagina con un formulario donde el profesor interesado podrá registrarse.
 
-## :ejecutar: Como ejecutar el proyecto? 🤔
+## Como ejecutar el proyecto? 🤔
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
@@ -47,7 +47,7 @@ npm run dev
 ### Después del paso anterior, abra su navegador y acesse `http://localhost:5500/`
 
 
-## :tecnologias: Tecnologías Utilizadas 🛠️
+## Tecnologías Utilizadas 🛠️
 
 * [JavaScript](https://www.javascript.com/)
 * [HTML](https://www.w3schools.com/html/)
@@ -57,7 +57,7 @@ npm run dev
 * [SQLite](https://www.sqlite.org/index.html)
 * [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## :memo: Licencia 📄
+## Licencia 📄
 
 Este proyecto está bajo la Licencia MIT- mira el archivo [LICENSE](LICENSE.md) para detalles
 
