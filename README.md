@@ -12,7 +12,7 @@
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ejecutar-como-ejecutar-el-proyecto">Como ejecutar el proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-tecnologías-Utilizadas">Tecnologías Utilizasas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licencia-licencia">Licencia</a>
+  <a href="#rocket-licencia">Licencia</a>
 </p>
 
 
@@ -57,7 +57,7 @@ npm run dev
 * [SQLite](https://www.sqlite.org/index.html)
 * [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## :licencia: Licencia 📄
+## :rocket: Licencia 📄
 
 Este proyecto está bajo la Licencia MIT- mira el archivo [LICENSE](LICENSE.md) para detalles
 
